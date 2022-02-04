@@ -1,2 +1,2 @@
 # IBM_Data Sc
-Just pratice 
+Data Science Practice Project
